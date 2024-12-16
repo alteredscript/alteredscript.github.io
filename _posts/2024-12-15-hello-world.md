@@ -57,3 +57,5 @@ I don't promise to post on a regular schedule, but on an ad-hoc basis as
 inspiration strikes. Hopefully that means my content will never be boring.
 If you are still here: thank you for reading this, and I hope that you
 find some value in what I have to say.
+
+Hello, World!
