@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 date: 2024-12-15 22:23:00 +0000
-categories: []
+categories: [meta]
 tags: []
 ---
 
