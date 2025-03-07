@@ -1,7 +1,7 @@
 ---
 title: Zugspitze
 date: 2025-02-22 17:14:00 +0000
-categories: [life, travel]
+categories: [health]
 tags: []
 ---
 
