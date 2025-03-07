@@ -1,6 +1,6 @@
 ---
 title: Zugspitze
-date: 2025-02-22 17:14:00 +0000
+date: 2025-02-22 00:00:00 +0000
 categories: [health]
 tags: []
 ---
