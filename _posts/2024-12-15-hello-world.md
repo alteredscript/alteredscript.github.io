@@ -1,6 +1,6 @@
 ---
 title: Hello, World!
-date: 2024-12-15 22:23:00 +0000
+date: 2024-12-15 00:00:00 +0000
 categories: [meta]
 tags: []
 ---
