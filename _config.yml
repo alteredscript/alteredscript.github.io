@@ -16,10 +16,10 @@ timezone: Europe/London
 
 title: AlteredScript # the main title
 
-tagline: Thoughts, ideas, and experiences of a software engineer working in the UK. # it will display as the subtitle
+tagline: Thoughts, ideas, and experiences of a software engineer working in the UK. Opinions are my own. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Thoughts, ideas, and experiences of a software engineer working in the UK.
+  Thoughts, ideas, and experiences of a software engineer working in the UK. Opinions are my own.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
