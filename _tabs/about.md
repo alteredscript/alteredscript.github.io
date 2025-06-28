@@ -10,4 +10,4 @@ I'm just a guy from the United Kingdom currently delivering value as a Senior So
 
 But it's not all sunshine and roses, and there are some very real problems I am encountering in life, which I write about in this blog. My hope is that through writing I can organise my thoughts and draw conclusions about the various topics I write about, such as health and productivity. It is a selfish endeavour really, but one that might enable some of my audience to feel like they are not alone.
 
-If any of the articles are of interest to you and you would like to discuss further, please feel free to contact me using the social links on this page.
+If any of the articles are of interest to you and you would like to discuss further, please feel free to contact me using the social links in the navigation bar.
