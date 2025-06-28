@@ -15,7 +15,7 @@ The reason is quite simple. By compiling your tasks into a list, you are creatin
 
 I say that if it's worth doing, it's worth doing now. Picking up on cues around you and acting on them is a sure-fire way to feel better about your productivity. Notice that something needs to change, change it, and enjoy the feeling of reward afterwards. This leaves little room for procrastination, or feelings of guilt and failure.
 
-But how do you juggle multiple tasks with different priorities? Well, you first need to understand what your priorities are. Once you understand your priorities, everything else should fall into place. You can only do one thing at a time to a high quality, so you should only do one thing at a time, and it should be the thing that is needed most in that moment, whether that's making your bed in the morning, tidying up your kitchen after cooking, or blocking out some time to complete your work.
+But how do you juggle multiple tasks with different priorities? Well, you first need to understand what your priorities are. Once you understand your priorities, everything else should fall into place. You can only do one thing at a time properly, so you should only do one thing at a time, and it should be the thing that is needed most in that moment, whether that's making your bed in the morning, tidying up your kitchen after cooking, or blocking out some time to complete your work.
 
 By paying attention to the present moment and the cues of the environment we are in, we don't just feel more productive, we *become* more productive.
 
