@@ -19,6 +19,7 @@ But how do you juggle multiple tasks with different priorities? Well, you first 
 
 By paying attention to the present moment and the cues of the environment we are in, we don't just feel more productive, we *become* more productive.
 
+
 > There are two ways to wash the dishes. The first is to wash the dishes in order to have clean dishes and the second is to wash the dishes in order to wash the dishes.
 
 &mdash; Thich Nhat Hanh
