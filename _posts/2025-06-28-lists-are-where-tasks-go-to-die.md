@@ -7,7 +7,7 @@ tags: []
 
 This may be a controversial take as I know that many people are committed list-makers and have to write down, see, and check off their tasks to feel productive. This is especially true in software development, where great effort is put into maintaining a backlog of tickets, ready to be picked up by an engineer. But I'm going to say it anyway...
 
-**Lists are where tasks go to die.**
+Lists are where tasks go to die.
 
 Humour me for a moment. You set out on a mission to change your life and become more organised, and start recording your daily chores and work items in your favourite task management app. "Boom!", you think. But when it comes to actually carrying them out, for some reason you just can't stick to the schedule. This is normal and is aligned with human nature, but it comes to many as a surprise. Why does this happen?
 
