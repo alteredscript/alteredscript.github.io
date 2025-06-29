@@ -11,7 +11,7 @@ This may be a controversial take as I know that many people are committed list-m
 
 Humour me for a moment. You set out on a mission to change your life and become more organised, and start recording your daily chores and work items in your favourite task management app. "Boom!", you think. But when it comes to actually carrying them out, for some reason you just can't stick to the schedule. This is normal and is aligned with human nature, but it comes to many as a surprise. Why does this happen?
 
-The reason is quite simple. By compiling your tasks into a list, you are creating emotional and time distance between yourself and the work that needs to be carried out. You're saying to yourself, "I can't do this now, but I will do it later". But later never comes.
+The reason is quite simple. By compiling your tasks into a list, you are creating emotional and temporal distance between yourself and the work that needs to be carried out. You're saying to yourself, "I can't do this now, but I will do it later". But later never comes.
 
 I say that if it's worth doing, it's worth doing now. Picking up on cues around you and acting on them is a sure-fire way to feel better about your productivity. Notice that something needs to change, change it, and enjoy the feeling of reward afterwards. This leaves little room for procrastination, or feelings of guilt and failure.
 
